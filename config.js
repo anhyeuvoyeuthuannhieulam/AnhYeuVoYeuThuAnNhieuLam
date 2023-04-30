@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Yêu vợ nhiều 🥰. Yêu vợ nhiều lắmmm 😘😘',
     messDesc: 'Nào anh ra với vợ yêu nhaaaa',
     btnAccept: 'Okiiiii lunn na <3',
-    messLink: 'https://photos.onedrive.com/photo/766D70ADC95502E6!454' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://imgur.com/3jw0mRw' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
